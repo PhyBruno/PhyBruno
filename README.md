@@ -38,10 +38,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phybruno&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Bruno Eduardo Santos's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=phybruno&theme=nightowl&radius=10" alt="phybruno's Activity Graph" />
+  <img src="https://ghchart.rshah.org/7e57c2/PhyBruno" alt="Gráfico de contribuições de PhyBruno" width="90%" />
 </p>
 
 ## 🛠️ Languages & Tools
