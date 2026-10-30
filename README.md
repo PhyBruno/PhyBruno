@@ -7,7 +7,7 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phybruno&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="phybruno's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=phybruno&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="phybruno's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=phybruno&theme=nightowl&hide_border=true&cache_seconds=86400" alt="phybruno's GitHub Streak" width="49%" />
 </p>
 
@@ -37,6 +37,9 @@
 
 </div>
 
+<p align="center">
+  <img src="https://github-profile-trophy-delta.vercel.app/?username=phybruno&theme=nightowl&no-frame=true&no-bg=true&margin-w=4" alt="Troféus do GitHub de Bruno Eduardo Santos" />
+</p>
 <p align="center">
   <img src="https://ghchart.rshah.org/7e57c2/PhyBruno" alt="Gráfico de contribuições de PhyBruno" width="90%" />
 </p>
